@@ -12,7 +12,7 @@ export default function App() {
   return (
     <div>
       <h1>Pixel To rem conversion</h1>
-      <h5>Pixle</h5>
+      <h5>Pixel</h5>
       <input type="Number" placeholder="pixel" onChange={handleChange}/>
       <br/>
       <h5>rem</h5>
